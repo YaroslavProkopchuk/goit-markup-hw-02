@@ -25,12 +25,10 @@ a {
 }
 .header-logo .logo-part {
   color: #2e2f42;
-  margin-right: 76px;
 }
 
 .footer-logo .logo-part {
   color: #f4f4fd;
-  margin-bottom: 16px;
 }
 .nav-link {
   font-weight: 500;
@@ -66,7 +64,6 @@ a {
   color: #fff;
 }
 .btn {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   cursor: pointer;
 }
@@ -87,10 +84,6 @@ a {
 }
 .team-item {
   background: #fff;
-  border-radius: 0 0 4px 4px;
-  padding: 0px 0px 32px 0px;
-  width: 264px;
-  height: 380px;
 }
 .advantages h2 {
   font-weight: 700;
